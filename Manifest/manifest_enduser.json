@@ -24,7 +24,7 @@
   "accentColor": "#64A2CC",
   "bots": [
     {
-      "botId": "<<botId>>",
+      "botId": "8706f9d4-fe10-404c-9528-86c6add7ffe6",
       "scopes": [
         "personal",
         "team"
@@ -69,6 +69,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<appDomain>>"
+    "rbeiqnabot-config.azurewebsites.net"
   ]
 }
